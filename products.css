@@ -145,5 +145,11 @@ h5{
         padding: 8px;
         animation: FadeIn 3s ease;
     }
+    .products .img .item .img-text p {
+        font-size: 5px;
+        font-weight: 500;
+        border-bottom: 1px solid #000000;
+        text-align: center;
+    }
 
 }

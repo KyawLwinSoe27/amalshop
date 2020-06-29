@@ -566,14 +566,14 @@ footer .help {
         border-radius: 10%;
     }
     .img .item{
-        flex: 0 0 10%;
-        max-width: 10%;
+        flex: 0 0 20%;
+        max-width: 20%;
         position: relative;
         padding: 8px;
         animation: FadeIn 3s ease;
     }
     .img .item .img-text p {
-        font-size: 10px;
+        font-size: 5px;
         font-weight: 500;
         border-bottom: 1px solid #000000;
         text-align: center;
